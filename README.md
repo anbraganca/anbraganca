@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+### About me
 
 - 🔭 I’m currently working on Building my life
 - 🌱 I’m currently learning Cybersecurity, Python
